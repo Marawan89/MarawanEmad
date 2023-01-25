@@ -20,6 +20,10 @@ Patente B conseguita a giugno 2021
 * Linguaggio C - *livello intermedio*
 * SQL, DataBase Development - *livello intermedio*
 
+<font size="3">**CERTIFICAZIONI:**<font size="3">
+* CISCO: CCNAv7: Introduction to Networks
+* CISCO: IT Essentials: PC Hardware and Software
+
 
 
 <font size="3">**TIROCINIO:**<font size="3">
