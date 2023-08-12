@@ -27,4 +27,9 @@ Patente B conseguita a giugno 2021
 
 
 <font size="3">**TIROCINIO:**<font size="3">
-* Tecnico software presso azienda di sicurezza informatica "Cotini S.r.L"
+* Tecnico software presso azienda di sicurezza informatica Cotini S.r.L a Milano
+    * Durata: 1 mese durante la Terza Superiore 
+* Tecnico di reti / Operatore di assistenza tecnica (assistenza di livello 1) nell'ufficio IT dell'azienda di villaggi turistici Club del Sole a Forli
+    * Durata: 6 mesi (da marzo ad agosto)2023
+
+##### Per vedere il curriculum completo visitare --> https://github.com/Marawan89/MarawanEmad
